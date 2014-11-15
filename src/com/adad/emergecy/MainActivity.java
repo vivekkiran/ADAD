@@ -73,7 +73,7 @@ public class MainActivity extends FragmentActivity implements LocationListener {
 				// Create URL string
 
 				String URL = "http://172.16.250.147/compare.php?Latitude=" + location.getLatitude() + "&Longitude="
-						+ location.getLatitude();
+						+ location.getLongitude();
 
 				// Log.i("httpget", URL);
 
