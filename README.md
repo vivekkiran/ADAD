@@ -6,6 +6,6 @@ TODO:<br>
 3. Show the Nearest Ambulance<br>
 4. Automatically Send the Message to Nearest Ambulance and Hospital on Button Click
 
-Dependencies
-1.Google Play Servicies 
-2.Android v7 appcompat
+Dependencies:<br>
+1. Google Play Servicies <br>
+2. Android v7 appcompat<br>
